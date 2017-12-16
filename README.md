@@ -6,7 +6,7 @@ Beispiel für einen simplen Microservice unter Verwendung von Spring Boot, Sprin
 
 * Auf der Konsole `mvn spring-boot:run` eingeben, um die Anwendung über das Maven Plugin zu starten.
 * Projekt mit `mvn install` bauen und die verpackte Anwendung mit `java -jar target/contacts-0.0.1-SNAPSHOT.jar` starten.
-* Anwendungen unter einer IDE starten. Im Falle von Eclipse mittels `mvn install eclipse:eclipse` sas Projekt bauen und die Eclipse-Einstellungen erzeugen. Projekt in Eclipse in den Workspace importieren und die Anwendung mit 'Run as Java Application' auf die Datei ContactsApplication.java starten.
+* Anwendungen unter einer IDE starten. Im Falle von Eclipse mittels `mvn install eclipse:eclipse` das Projekt bauen und die Eclipse-Einstellungen erzeugen. Projekt in Eclipse in den Workspace importieren und die Anwendung mit 'Run as Java Application' auf die Datei ContactsApplication.java starten.
 
 ## Aufruf der Anwendung
 
