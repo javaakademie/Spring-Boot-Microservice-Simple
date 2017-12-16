@@ -1,0 +1,6 @@
+CREATE TABLE contacts (
+  id int(5) NOT NULL AUTO_INCREMENT,
+  name varchar(200) NOT NULL,
+  email varchar(200) NOT NULL,
+  PRIMARY KEY (id)
+) ENGINE=InnoDB AUTO_INCREMENT=10 DEFAULT CHARSET=UTF8;
