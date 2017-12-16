@@ -10,5 +10,5 @@ Beispiel für einen simplen Microservice unter Verwendung von Spring Boot, Sprin
 
 ## Aufruf der Anwendung
 
-`http://localhost:8080/contacts`
+`http://localhost:8080/contacts`<br/>
 `http://localhost:8080/contacts/{id}`
